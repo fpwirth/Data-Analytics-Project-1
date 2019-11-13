@@ -1,6 +1,6 @@
 # Data-Analytics-Project-1
 
-##Collaborators
+## Collaborators
 Philip Wirth
 Dwayne Westmoreland
 Alberto Ramirez

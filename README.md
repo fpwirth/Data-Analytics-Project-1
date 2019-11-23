@@ -6,5 +6,3 @@
 Philip Wirth
 
 Dwayne Westmoreland
-
-Alberto Ramirez
